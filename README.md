@@ -1,69 +1,68 @@
-## Your Name
+# Matthew William Gentle-Shepherd
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+## Summary
+
+Junior Software Developer with a Master’s in Engineering who discovered a genuine enthusiasm for coding during the Final Year Project of their degree. Demonstrated a natural aptitude for coding in an internship at EDF, developing a Python app which significantly optimised a client’s operational efficiencies and costs. After a rewarding year out, working as a chalet host and travelling Europe, the commitment to a software development career led to enrolment in the Makers bootcamp, showcasing a strong drive for learning and adaptability. Eager to bring a unique blend of technical expertise and interpersonal skills to a dynamic software development role.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Acebook**            | A project aimed at working in a simulated engineering team, from an existing ‘seed’ project, to build a Facebook clone. | MERN (MongoDB, ExpressJS, React, Node), Tailwind, Bicrypt |
+| **Makersbnb** | A group project, aimed at developing a web application, similar to Airbnb that allows users to list spaces they have available, and to hire spaces for the night. | Python, Flask, HTML, Bootstrap, Jinja, PostgreSQL              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Edumentors** (Aug 2023 - Present)  
+*Mathematics Tutor*
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Provided personalised remote mathematics tutoring sessions to GCSE and A-Level students, leveraging effective communication and problem-solving skills, enhancing students' mathematical proficiency and confidence.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Skiworld** (Nov 2022 - Apr 2023)  
+*Chalet Host*
 
-- Any experience relevent to software development
+- Co-hosted Skiworld’s _Highest Rated Chalet for the 2022-23 Season_ – 1st out of 58 chalets.
+- Demonstrated a high level of customer service & interpersonal skills, regularly communicating with guests to ensure their experience was above and beyond their expectations.
+
+**EDF R&D UKC** (Jun 2022 - Nov 2022)  
+*Zero Carbon Applications Research Intern*
+
+- Developed a customer-oriented app in Python while adhering to industry-standard coding practices, collaborating seamlessly with fellow team members through a shared GitHub repository, and maintaining effective communication with clients to fulfil their requirements and remain in scope.
+
+**RACE - UK Atomic Energy Authority** (Jul 2019 - Aug 2020)  
+*Electrical Engineer (Industrial Placement Student)*
+
+- Led end-to-end development of a compact test rig emulating the snake-like boom joints used during maintenance operations in the JET reactor. Oversaw CAD design, presented to senior stakeholders, managed technical documentation, and liaised with procurement and suppliers. Resulted in the timely delivery of the project, ensuring seamless testing and validation processes.
+- Completed training courses in SolidWorks Electrical, C++ and BS EN (IEC) 60204-1 Safety of Machinery.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Makers Academy** (Oct 2023 - Mar 2024)
+*Software Development Bootcamp*
 
-#### Your University / College (start_date to end_date)
+- Implemented Agile methodologies in various group projects, demonstrating proficiency in Test-Driven Development (TDD) and fostering collaboration through pair-programming.
+- Orchestrated effective version management using Git source control and GitHub, ensuring seamless collaboration in team-based projects.
+- Showcased a solid understanding of Object-Oriented Programming (OOP), program design, debugging, and a knowledge of web apps, databases, and cloud deployment.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**University of Bath** (Oct 2017 - Mar 2022)
+*MEng (Hons) Integrated Mechanical and Electrical Engineering with Year-Long Work Placement*
 
-#### Any other qualifications
+- Graduated with a _First-Class Honours_ | Overall programme average of 72.1%.
+- Final Year Project: “Ready to eat? A visuo-tactile inspection of fruit ripeness” – utilising visual and tactile sensing modalities coupled with machine-learning (TensorFlow/Keras) to autonomously classify fruit ripeness.
+- Won the _First Prize_ in the _Final Year Poster Competition._
+- Modules include _Business Processes_ (76%), _Computational Intelligence_ (73%), _Robotics Engineering_ (84%), _Vehicle Dynamics_ (83%), _Power Electronics and Drives_ (83%).
 
-That in some arguable way make you a better software developer or well-rounded person
+Coursework examples:
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+#### Graphic Design
+
+- Designed numerous UIs, logos, and infographics using Figma/ Adobe Photoshop.
+
+Examples:
+1. 
