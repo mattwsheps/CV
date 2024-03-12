@@ -62,7 +62,7 @@ Coursework examples:
 
 #### Graphic Design
 
-- Designed numerous UIs, logos, and infographics using Figma/ Adobe Photoshop.
+- Designed numerous UIs, logos, and infographics, primarily using Figma.
 
 Examples:
 1. 
