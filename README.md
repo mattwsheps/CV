@@ -13,6 +13,23 @@ Junior Software Developer with a Master’s in Engineering who discovered a genu
 | **Acebook**            | A project aimed at working in a simulated engineering team, from an existing ‘seed’ project, to build a Facebook clone. | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) + Bicrypt |
 | **Makersbnb** | Contributed to building a web app similar to Airbnb, enabling users to list and rent accommodations.| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) + Pytest |
 
+## Education
+
+**Makers Academy** (Oct 2023 - Mar 2024)
+*Software Development Bootcamp*
+
+- Implemented Agile methodologies in various group projects, demonstrating proficiency in Test-Driven Development (TDD) and fostering collaboration through pair-programming.
+- Orchestrated effective version management using Git source control and GitHub, ensuring seamless collaboration in team-based projects.
+- Showcased a solid understanding of Object-Oriented Programming (OOP), program design, debugging, and a knowledge of web apps, databases, and cloud deployment.
+
+**University of Bath** (Oct 2017 - Mar 2022)
+*MEng (Hons) Integrated Mechanical and Electrical Engineering with Year-Long Work Placement*
+
+- Graduated with a _First-Class Honours_ | Overall programme average of 72.1%.
+- Final Year Project: “Ready to eat? A visuo-tactile inspection of fruit ripeness” – utilising visual and tactile sensing modalities coupled with machine-learning (TensorFlow/Keras) to autonomously classify fruit ripeness.
+- Won the _First Prize_ in the _Final Year Poster Competition._
+- Modules include _Business Processes_ (76%), _Computational Intelligence_ (73%), _Robotics Engineering_ (84%), _Vehicle Dynamics_ (83%), _Power Electronics and Drives_ (83%).
+
 ## Work Experience
 
 **Edumentors** (Aug 2023 - Present)  
@@ -36,29 +53,6 @@ Junior Software Developer with a Master’s in Engineering who discovered a genu
 
 - Led end-to-end development of a compact test rig emulating the snake-like boom joints used during maintenance operations in the JET reactor. Oversaw CAD design, presented to senior stakeholders, managed technical documentation, and liaised with procurement and suppliers. Resulted in the timely delivery of the project, ensuring seamless testing and validation processes.
 - Completed training courses in SolidWorks Electrical, C++ and BS EN (IEC) 60204-1 Safety of Machinery.
-
-## Skills
-
-
-
-## Education
-
-**Makers Academy** (Oct 2023 - Mar 2024)
-*Software Development Bootcamp*
-
-- Implemented Agile methodologies in various group projects, demonstrating proficiency in Test-Driven Development (TDD) and fostering collaboration through pair-programming.
-- Orchestrated effective version management using Git source control and GitHub, ensuring seamless collaboration in team-based projects.
-- Showcased a solid understanding of Object-Oriented Programming (OOP), program design, debugging, and a knowledge of web apps, databases, and cloud deployment.
-
-**University of Bath** (Oct 2017 - Mar 2022)
-*MEng (Hons) Integrated Mechanical and Electrical Engineering with Year-Long Work Placement*
-
-- Graduated with a _First-Class Honours_ | Overall programme average of 72.1%.
-- Final Year Project: “Ready to eat? A visuo-tactile inspection of fruit ripeness” – utilising visual and tactile sensing modalities coupled with machine-learning (TensorFlow/Keras) to autonomously classify fruit ripeness.
-- Won the _First Prize_ in the _Final Year Poster Competition._
-- Modules include _Business Processes_ (76%), _Computational Intelligence_ (73%), _Robotics Engineering_ (84%), _Vehicle Dynamics_ (83%), _Power Electronics and Drives_ (83%).
-
-Coursework examples:
 
 ## Hobbies
 
